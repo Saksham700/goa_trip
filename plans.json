@@ -1,18 +1,1 @@
-[
-  {
-    "id": 1,
-    "title": "Randibazzi",
-    "description": "Randibazzi",
-    "date": "2025-10-02",
-    "time": "14:13",
-    "estimated_cost": 0.0,
-    "category": "Adventure",
-    "created_by": "kattu",
-    "created_at": "2025-08-22T14:15:32.090672",
-    "approvals": {
-      "saky": "approve",
-      "iyer": "approve"
-    },
-    "status": "pending"
-  }
-]
+
