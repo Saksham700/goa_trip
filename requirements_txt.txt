@@ -1,0 +1,24 @@
+# Streamlit Dashboard Requirements
+# Core framework
+streamlit>=1.28.0
+
+# Data manipulation and analysis
+pandas>=2.0.0
+
+# Visualization
+plotly>=5.15.0
+
+# HTTP requests for AI API
+requests>=2.31.0
+
+# Date and time handling (built-in with Python 3.7+)
+# datetime - included in Python standard library
+
+# JSON handling (built-in with Python)
+# json - included in Python standard library
+
+# File system operations (built-in with Python)
+# os - included in Python standard library
+
+# Type hints (built-in with Python 3.5+)
+# typing - included in Python standard library
